@@ -10,6 +10,10 @@ Welcome the North Carolina Modeling Infectious Diseases (NC MInD) Project! Our [
 
 ![](assets/NHs_STACHs_LTACHs_Jan2020.jpg)
 
+**Modeling Code Repositories**
+
+- [CDI](https://github.com/RTIInternational/NCMInD)
+
 **Peer-reviewed Publications:**
 
 - Rhea S., Hilscher R., Rineer JI., et al. Creation of a geospatially explicit, agent-based model of a regional healthcare network with application to *Clostridioides difficile* infection. Health Security. Jul/Aug 2019; 17(4); 276-290. [https://pubmed.ncbi.nlm.nih.gov/31433281/](https://pubmed.ncbi.nlm.nih.gov/31433281/)
