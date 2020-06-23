@@ -3,5 +3,6 @@ description: Agent-based modeling for COVID-19, healthcare system capacity, and 
 
 theme: jekyll-theme-slate
 
+show_downloads: false
 github:
   is_project_page: false
