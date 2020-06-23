@@ -12,7 +12,7 @@ Welcome the North Carolina Modeling Infectious Diseases (NC MInD) Project! Our [
 
 **Modeling Code Repositories**
 
-- [CDI](https://github.com/RTIInternational/NCMInD)
+- [C. difficile (CDI)](https://github.com/RTIInternational/NCMInD)
 
 **Peer-reviewed Publications:**
 
