@@ -4,4 +4,4 @@ description: Agent-based modeling for COVID-19, healthcare system capacity, and 
 theme: jekyll-theme-slate
 
 github:
-    is_project_page: false
+  is_project_page: false
