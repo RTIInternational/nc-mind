@@ -8,11 +8,14 @@ Welcome the North Carolina Modeling Infectious Diseases (NC MInD) Project! Our [
 
 *\*This work was supported, in part, by CDC Cooperative Agreement number U01CK000527. The conclusions, findings, and opinions expressed do not necessarily reflect the official position of CDC.*
 
-![](assets/NHs_STACHs_LTACHs_Jan2020.jpg)
+![North Carolina map with modeled healthcare facilities](assets/NHs_STACHs_LTACHs_Jan2020.jpg)
+
+_North Carolina map with modeled healthcare facilities_
 
 **Modeling Code Repositories**
 
-- [Clostridioides difficile](https://github.com/RTIInternational/NCMInD)
+- _[Clostridioides difficile](https://github.com/RTIInternational/NCMInD)_
+- More coming soon
 
 **Peer-reviewed Publications:**
 
