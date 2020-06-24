@@ -15,7 +15,8 @@ _North Carolina map with modeled healthcare facilities_
 **Modeling Code Repositories**
 
 - _[Clostridioides difficile](https://github.com/RTIInternational/NCMInD)_
-- More coming soon
+- COVID-19 (Coming Soon)
+- _carbapenem-resistant Enterobacteriaceae_ (CRE) (Coming Soon)
 
 **Peer-reviewed Publications:**
 
